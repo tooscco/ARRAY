@@ -1,0 +1,11 @@
+#errorMsg, #bigDiv, #bigShow{
+    display: none;
+}
+
+table{
+    border: 2px solid red;
+}
+
+tr, td, th{
+    border: 2px solid red;
+}
