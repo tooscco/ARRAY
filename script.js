@@ -9,7 +9,7 @@
 // var ch='jjj'
 // console.log(ch.length);
 
-var cart = []
+
 
 // function submitItem(){
 //     if (items.value===''){
@@ -34,6 +34,8 @@ var cart = []
 //         }
 // }
 
+
+var cart = []
  if(cart.length == 0){
     bigDiv.style.display = 'block'
     bigDiv.innerHTML= `
